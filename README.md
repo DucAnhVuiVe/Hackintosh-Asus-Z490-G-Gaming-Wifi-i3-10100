@@ -49,6 +49,31 @@
 
 YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.
 
+# Status
+
+Working
+
+- [x] QE/CI
+- [x] Restart, Sleep and Shutdown
+- [x] CPU Power Management
+- [x] Ethernet Intel I225-V
+- [x] Audio Jack Rear and Front (Realtek ALC S1220A)
+- [x] Wifi, Bluetooth
+- [x] HDMI,DP Audio
+- [x] iMessage, Facetime
+- [x] All Port USB and Super Speed USB 3.2
+- [x] Etc
+ 
+Not working at the moment
+
+- [ ] AirDrop
+
+Not tested
+
+- [ ] Handoff
+- [ ] Sidecar
+- [ ] USB Type-C
+
 # Screenshot
 
 
