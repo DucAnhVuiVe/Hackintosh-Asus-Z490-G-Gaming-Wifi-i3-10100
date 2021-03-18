@@ -51,4 +51,4 @@ YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MA
 
 # Screenshot
 
-<img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/OpenCanopy.png" width="400" height="300">
+<img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/OpenCanopy.png" width="1920" height="1080">
