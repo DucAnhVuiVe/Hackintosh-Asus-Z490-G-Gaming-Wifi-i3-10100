@@ -51,25 +51,4 @@ YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MA
 
 # Screenshot
 
-<table>
-<thead>
-  <tr>
-    <th>OpenCanopy</th>
-    <th><img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/OpenCanopy.png" width="400" height="300"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Hackintool</td>
-    <td><img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/Hackintool-1.png" alt="Hình ảnh" width="76" height="16">#Các bác sĩ cho biết thêm:<img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/Hackintool-1.png" width="400" height="300"></td>
-  </tr>
-  <tr>
-    <td>AboutThisMac</td>
-    <td><img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/AboutThisMac.png" alt="Hình ảnh" width="76" height="16"></td>
-  </tr>
-  <tr>
-    <td>GeekBench 5</td>
-    <td>Các bác sĩ cho biết thêm:<img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/GeekBench5-1.png" width="400" height="300"></td>
-  </tr>
-</tbody>
-</table>
+<img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/OpenCanopy.png" width="400" height="300">
