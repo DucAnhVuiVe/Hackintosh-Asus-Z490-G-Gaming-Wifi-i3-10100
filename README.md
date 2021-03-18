@@ -51,5 +51,8 @@ YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MA
 
 # Screenshot
 
-![OpenCanopy](https://user-images.githubusercontent.com/68510491/111687657-1cb6a500-885d-11eb-9924-c7d9acbdc1ea.png)
+
+![AboutThisMac](https://user-images.githubusercontent.com/68510491/111687757-3ce66400-885d-11eb-8fbc-8fb5ce7137dd.png)
+![Hackintool-1](https://user-images.githubusercontent.com/68510491/111687785-453e9f00-885d-11eb-91fd-e99b9ea14b29.png)
+![GeekBench5-4](https://user-images.githubusercontent.com/68510491/111687807-4cfe4380-885d-11eb-8b84-1746228db89a.png)
 
