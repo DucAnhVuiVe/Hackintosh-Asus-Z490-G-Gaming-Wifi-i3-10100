@@ -48,3 +48,48 @@
 # Important!
 
 YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.
+
+# Screenshot
+
+<table>
+<thead>
+  <tr>
+    <th>OpenCanopy</th>
+    <th><img src="https://github.com/DucAnhVuiVe/Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100/blob/main/Screenshot/OpenCanopy.png" width="400" height="300"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
