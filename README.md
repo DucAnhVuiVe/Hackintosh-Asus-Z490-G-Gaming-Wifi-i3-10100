@@ -1,5 +1,7 @@
 # Hackintosh-Asus-Z490-G-Gaming-Wifi-i3-10100
+
 # Hardware
+
 <table class="tg">
 <thead>
   <tr>
@@ -42,3 +44,7 @@
   </tr>
 </tbody>
 </table>
+
+# Important!
+
+YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.
