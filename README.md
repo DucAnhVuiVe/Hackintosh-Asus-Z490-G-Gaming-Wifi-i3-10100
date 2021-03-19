@@ -62,7 +62,6 @@ Working
 - [x] HDMI,DP Audio
 - [x] iMessage, Facetime
 - [x] All Port USB and Super Speed USB 3.2
-- [x] Etc
  
 Not working at the moment
 
