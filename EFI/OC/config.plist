@@ -71,8 +71,7 @@
 			</dict>
 		</array>
 		<key>Patch</key>
-		<array>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>FadtEnableReset</key>
@@ -183,21 +182,17 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
-				<key>framebuffer-con0-alldata</key>
-				<data>AQAJAAAEAADHAwAA</data>
-				<key>framebuffer-con0-enable</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-con1-alldata</key>
 				<data>AgIKAAAIAADHAwAA</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con2-alldata</key>
-				<data>AwAIAAAEAADHAwAA</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAwA==</data>
+				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
@@ -763,8 +758,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -979,11 +973,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>M0000000000000001</string>
+			<string>C02019130J9PHCDFB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>1F1ksmN+</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -991,9 +985,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>W00000000001</string>
+			<string>C02CP06SPN5T</string>
 			<key>SystemUUID</key>
-			<string>00000000-0000-0000-0000-000000000000</string>
+			<string>99507492-3EA9-4550-9A9C-52BA4A4182B2</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
