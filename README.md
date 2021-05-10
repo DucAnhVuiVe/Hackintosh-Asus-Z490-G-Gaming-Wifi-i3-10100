@@ -32,15 +32,15 @@
   </tr>
   <tr>
     <td class="tg-c3ow">BIOS</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/motherboards/rog-strix/rog-strix-z490-g-gaming-wi-fi-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1003</a></td>
+    <td class="tg-c3ow"><a href="https://rog.asus.com/motherboards/rog-strix/rog-strix-z490-g-gaming-wi-fi-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 2103</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore</span></td>
-    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.6.7</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.6.9</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">macOS</span></td>
-    <td class="tg-c3ow">BigSur 11.2.3</td>
+    <td class="tg-c3ow">BigSur 11.3.1</td>
   </tr>
 </tbody>
 </table>
